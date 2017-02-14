@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SavePoint()
+comment0.text=\nConstructor\n\n
+comment1.params=location\ name\ score\ inventory
+comment1.target=void\ setSavePoint(Location,\ String,\ int,\ Inventory)
+comment1.text=\nMethod\ to\ set\ save\ point\n@param\ location\n@param\ name\n@param\ score\n@param\ inventory\n\n
+comment2.target=Location\ getLocation()
+comment2.text=\nMethod\ to\ return\ location\n@return\ location\n\n
+comment3.target=Player\ getPlayer()
+comment3.text=\nMethod\ to\ return\ player\n@return\ player\n\n
+numComments=4

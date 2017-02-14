@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=word1\ word2
+comment0.target=Input(String,\ String)
+comment0.text=\nConstructor\n@param\ word1\n@param\ word2\n\n
+comment1.target=String\ getInputA()
+comment1.text=\nretrieves\ inputa\n@return\ inputa\n\n
+comment2.target=String\ getInputB()
+comment2.text=\nretrieves\ inputb\n@return\ inputb\n\n
+comment3.target=boolean\ isUnknown()
+comment3.text=\nreturns\ whether\ inputa\ is\ null\n@return\ (inputa\=\=null)\n\n
+comment4.target=boolean\ hasSecond()
+comment4.text=\nreturns\ wheter\ or\ not\ there\ is\ an\ inputb\n@return\ (inputb\!\=null)\n\n
+numComments=5

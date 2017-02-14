@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Inventory()
+comment0.text=\nConstructor\n\n
+comment1.target=void\ setInitial()
+comment1.text=\nMethod\ to\ set\ starting\ inventory\n\n
+comment2.target=ArrayList<Item>\ print()
+comment2.text=\nRetrieves\ inventoryList\ to\ send\ to\ GUI\n@return\ inventoryList;\n\n
+comment3.params=item
+comment3.target=String\ addItem(Item)
+comment3.text=\nMethod\ to\ add\ an\ item\ to\ list\n@param\ item\n@return\ String\n\n
+comment4.params=name
+comment4.target=void\ removeItem(String)
+comment4.text=\nMethod\ to\ drop\ an\ item\ from\ the\ list\n@param\ name\n@param\ use\ \n\n
+comment5.target=int\ getSize()
+comment5.text=\nMethod\ to\ return\ size\n@return\ inventoryList.size()\n\n
+comment6.params=i
+comment6.target=Item\ getItem(int)
+comment6.text=\nMethod\ to\ return\ Item\ by\ index\n@param\ i\ index\n@return\ inventoryList.get(i)\n\n
+numComments=7

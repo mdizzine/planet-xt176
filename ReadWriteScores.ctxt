@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ReadWriteScores()
+comment0.text=\nConstructor\n\n
+comment1.params=initials\ score
+comment1.target=void\ writeScores(String,\ int)
+comment1.text=\nMethod\ to\ write\ to\ file\n\n
+comment10.target=ArrayList<String>\ getPrintArray()
+comment10.text=\nMethod\ to\ return\ printArray\n@return\ printArray\n\n
+comment2.target=void\ readScores()
+comment2.text=\nMethod\ to\ read\ from\ file\n\n
+comment3.target=void\ sortScores()
+comment3.text=\nMethod\ to\ sort\ scores\ from\ highest\ to\ lowest\n\n
+comment4.target=void\ printHighScores()
+comment4.text=\nMethod\ to\ populate\ arrayList\ of\ Strings\ called\ printArray\nprintArray\ stores\ information\ that\ will\ be\ sent\ to\ the\ gui\n\n
+comment5.target=void\ cleanScores()
+comment5.text=\nMethod\ to\ remove\ unused\ scores\n\n
+comment6.params=initials\ score
+comment6.target=void\ starter(String,\ int)
+comment6.text=\nStarter\ method\n\n
+comment7.params=anyChar
+comment7.target=String\ printBreak(char)
+comment7.text=\nRetrieve\ horizontal\ rule\ string\n@return\ line\n\n
+comment8.target=void\ setDefaults()
+comment8.text=\nMethod\ to\ set\ default\ scores\n\n
+comment9.target=int\ getLowScore()
+comment9.text=\nMethod\ to\ return\ lowest\ score\n@return\ scoreList.get(9).getScore();\n\n
+numComments=11

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=anyInitials\ anyScore
+comment0.target=HighScore(String,\ int)
+comment0.text=\nConstructor\n@anyInitials\n@anyScore\n\n
+comment1.target=int\ getScore()
+comment1.text=\nretrieve\ the\ score\n@return\ score\n\n
+comment2.target=String\ getInitials()
+comment2.text=\nretrieve\ player's\ initials\n@return\ initials\n\n
+numComments=3

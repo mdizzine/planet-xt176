@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=anyName\ anyDescription
+comment0.target=Item(String,\ String)
+comment0.text=\nConstructor\n@param\ anyName\n@param\ anyDescription\n\n
+comment1.target=String\ print()
+comment1.text=\nMethod\ to\ return\ a\ string\ of\ item\ details\n@return\ print\n\n
+comment2.target=String\ getName()
+comment2.text=\nGet\ name\n@return\ name\n\n
+comment3.target=String\ getDescription()
+comment3.text=\nGet\ Description\n@return\ description\n\n
+comment4.target=String\ toString()
+comment4.text=\nOverrides\ toString\ method\n@return\ obj\n\n
+numComments=5

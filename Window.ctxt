@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Window()
+comment0.text=\nConstructor\n\n
+comment1.target=void\ setLabels()
+comment1.text=\nSets\ all\ of\ the\ JLabels\ to\ defaults\n\n
+comment2.target=void\ makeFrame()
+comment2.text=\nBuilds\ frame\ and\ adds\ components\n\n
+comment3.target=void\ multiLine()
+comment3.text=\nRewrites\ the\ all\ JLabels\ when\ ActionEvent\ occurs\n\n
+comment4.params=string
+comment4.target=void\ printLine(String)
+comment4.text=\nAdds\ user\ input\ to\ outputList\n@param\ string\n\n
+comment5.target=void\ setIsReady()
+comment5.text=\nSets\ enter\ parameter\ to\ false\n\n
+comment6.target=String\ getPrintout()
+comment6.text=\nretrieves\ user\ input\n@return\ printOut\n\n
+comment7.target=boolean\ isReady()
+comment7.text=\nHas\ the\ user\ input\ data?\n@return\ enter;\n\n
+comment8.target=ArrayList<String>\ getList()
+comment8.text=\nretrieves\ the\ outputList\n@return\ outputList\n\n
+numComments=9

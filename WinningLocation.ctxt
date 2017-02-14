@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=hasItem\ isSavePoint\ isGameOver
+comment0.target=WinningLocation(boolean,\ boolean,\ boolean)
+comment0.text=\nConstructor\n\n
+comment1.target=String\ getWin()
+comment1.text=\nretrieve\ string\ used\ when\ player\ wins\ the\ game\n@return\ win\n\n
+comment2.target=boolean\ hasWon()
+comment2.text=\nretrieve\ whether\ or\ not\ player\ has\ won\ the\ game\n@return\ true\n\n
+numComments=3

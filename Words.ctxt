@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Words()
+comment0.text=\nConstructor\n\n
+comment1.params=input
+comment1.target=boolean\ isUnderstood(String)
+comment1.text=\nIs\ the\ commmand\ recognized\ by\ system?\n@param\ input\n@return\ isFound\n\n
+comment2.params=input
+comment2.target=boolean\ isDirection(String)
+comment2.text=\nIs\ the\ command\ word\ a\ direction\n@param\ input\n@return\ isDirection\n\n
+numComments=3
